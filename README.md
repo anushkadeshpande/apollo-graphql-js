@@ -20,3 +20,7 @@
 #### Add Mutation:
 ![image](https://github.com/anushkadeshpande/apollo-graphql/assets/53345232/ded7d995-8381-4315-8a3a-f99bc7b2ce11)
 ![image](https://github.com/anushkadeshpande/apollo-graphql/assets/53345232/d48983a4-523f-40a8-b7a0-deee57ece507)
+
+#### Update Mutation:
+![image](https://github.com/anushkadeshpande/apollo-graphql/assets/53345232/e943d601-5e86-4d39-a39a-f77fe1ae1ba1)
+![image](https://github.com/anushkadeshpande/apollo-graphql/assets/53345232/5b564931-77f0-4b59-a31d-7e216e517375)
