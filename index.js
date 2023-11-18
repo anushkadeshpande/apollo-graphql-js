@@ -4,8 +4,8 @@ import { startStandaloneServer } from '@apollo/server/standalone'
 // server setup
 
 const server = new ApolloServer({
-    // typedefs
-    // resolvers
+    // typedefs  --- definitions of types of data
+    // resolvers 
 
 })
 
