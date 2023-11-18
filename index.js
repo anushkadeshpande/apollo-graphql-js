@@ -46,6 +46,11 @@ const resolvers = {
         game(parent) {
             return db.authors.find(game => game.id === parent.game_id)
         }
+    },
+    Mutation: {
+        deleteGame(_, args) {
+            return db.games.filter(game => game.id !== args.id)
+        }
     }
 }
 
